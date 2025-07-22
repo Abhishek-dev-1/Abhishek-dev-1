@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data visualisation, python,sql etc**
 
-- 📫 How to reach me **ud8929661@gmail.com**
+- 📫 How to reach me **abhisheksingh4203@gmail.com**
 
 - ⚡ Fun fact **I am funny😅**
 
